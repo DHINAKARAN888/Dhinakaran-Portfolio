@@ -1,0 +1,929 @@
+[
+ {
+  "id": "brand-brand-identity",
+  "type": "image",
+  "cat": "Brand Identity",
+  "title": "Qubriux Brand Guidelines 2026",
+  "client": "Skellam AI \u00b7 Qubriux",
+  "note": "Identity system \u2014 logo evolution, colour, typography, icon set, product naming",
+  "thumb": "assets/img/thumb/brand-brand-identity.webp",
+  "full": "assets/img/full/brand-brand-identity.webp",
+  "zoom": "assets/img/zoom/brand-brand-identity.webp",
+  "w": 1244,
+  "h": 2600,
+  "orig": [
+   7680,
+   16052
+  ]
+ },
+ {
+  "id": "marketing-1200-1200-trade-like-a-pro-with-web",
+  "type": "image",
+  "cat": "Marketing & Social",
+  "title": "Trade Like a Pro",
+  "client": "FYERS Securities",
+  "note": "Social campaign post",
+  "thumb": "assets/img/thumb/marketing-1200-1200-trade-like-a-pro-with-web.webp",
+  "full": "assets/img/full/marketing-1200-1200-trade-like-a-pro-with-web.webp",
+  "zoom": null,
+  "w": 1200,
+  "h": 1200,
+  "orig": [
+   1200,
+   1200
+  ]
+ },
+ {
+  "id": "marketing-8-chart-patterns-you-must-know",
+  "type": "image",
+  "cat": "Marketing & Social",
+  "title": "8 Chart Patterns",
+  "client": "FYERS Securities",
+  "note": "Educational creative",
+  "thumb": "assets/img/thumb/marketing-8-chart-patterns-you-must-know.webp",
+  "full": "assets/img/full/marketing-8-chart-patterns-you-must-know.webp",
+  "zoom": null,
+  "w": 1280,
+  "h": 480,
+  "orig": [
+   1280,
+   480
+  ]
+ },
+ {
+  "id": "marketing-c4-1200-1200",
+  "type": "image",
+  "cat": "Marketing & Social",
+  "title": "Campaign Post",
+  "client": "FYERS Securities",
+  "note": "Social campaign post",
+  "thumb": "assets/img/thumb/marketing-c4-1200-1200.webp",
+  "full": "assets/img/full/marketing-c4-1200-1200.webp",
+  "zoom": null,
+  "w": 1200,
+  "h": 1200,
+  "orig": [
+   1200,
+   1200
+  ]
+ },
+ {
+  "id": "marketing-get-ready-for-the-ultimate-trading-upgrade-fyers-nex",
+  "type": "image",
+  "cat": "Marketing & Social",
+  "title": "FYERS Next \u2014 Teaser",
+  "client": "FYERS Securities",
+  "note": "Product teaser banner",
+  "thumb": "assets/img/thumb/marketing-get-ready-for-the-ultimate-trading-upgrade-fyers-nex.webp",
+  "full": "assets/img/full/marketing-get-ready-for-the-ultimate-trading-upgrade-fyers-nex.webp",
+  "zoom": null,
+  "w": 2600,
+  "h": 743,
+  "orig": [
+   2800,
+   800
+  ]
+ },
+ {
+  "id": "marketing-google-ad-smart-exit-1200x628",
+  "type": "image",
+  "cat": "Marketing & Social",
+  "title": "Smart Exit \u2014 Google Ad",
+  "client": "FYERS Securities",
+  "note": "Google Display ad, 1200\u00d7628",
+  "thumb": "assets/img/thumb/marketing-google-ad-smart-exit-1200x628.webp",
+  "full": "assets/img/full/marketing-google-ad-smart-exit-1200x628.webp",
+  "zoom": null,
+  "w": 1200,
+  "h": 628,
+  "orig": [
+   1200,
+   628
+  ]
+ },
+ {
+  "id": "marketing-journal-thmbnail",
+  "type": "image",
+  "cat": "Marketing & Social",
+  "title": "FYERS Journal",
+  "client": "FYERS Securities",
+  "note": "Vertical creative",
+  "thumb": "assets/img/thumb/marketing-journal-thmbnail.webp",
+  "full": "assets/img/full/marketing-journal-thmbnail.webp",
+  "zoom": null,
+  "w": 1080,
+  "h": 1920,
+  "orig": [
+   1080,
+   1920
+  ]
+ },
+ {
+  "id": "marketing-sme-ipo",
+  "type": "image",
+  "cat": "Marketing & Social",
+  "title": "SME IPO Campaign",
+  "client": "FYERS Securities",
+  "note": "Campaign banner",
+  "thumb": "assets/img/thumb/marketing-sme-ipo.webp",
+  "full": "assets/img/full/marketing-sme-ipo.webp",
+  "zoom": null,
+  "w": 2600,
+  "h": 743,
+  "orig": [
+   2800,
+   800
+  ]
+ },
+ {
+  "id": "marketing-showcase",
+  "type": "image",
+  "cat": "Marketing & Social",
+  "title": "Campaign & Podcast Showcase",
+  "client": "Skellam AI \u00b7 Qubriux",
+  "note": "Podcast covers, campaign posts and launch teasers",
+  "thumb": "assets/img/thumb/marketing-showcase.webp",
+  "full": "assets/img/full/marketing-showcase.webp",
+  "zoom": "assets/img/zoom/marketing-showcase.webp",
+  "w": 2600,
+  "h": 902,
+  "orig": [
+   7748,
+   2687
+  ]
+ },
+ {
+  "id": "marketing-social-media-carousel-post-1",
+  "type": "image",
+  "cat": "Marketing & Social",
+  "title": "Instagram Carousels",
+  "client": "Skellam AI \u00b7 Qubriux",
+  "note": "Two full carousels \u2014 loyalty mistakes, and social content tips",
+  "thumb": "assets/img/thumb/marketing-social-media-carousel-post-1.webp",
+  "full": "assets/img/full/marketing-social-media-carousel-post-1.webp",
+  "zoom": "assets/img/zoom/marketing-social-media-carousel-post-1.webp",
+  "w": 2600,
+  "h": 865,
+  "orig": [
+   8078,
+   2687
+  ]
+ },
+ {
+  "id": "marketing-townhall-thumbnail-1",
+  "type": "image",
+  "cat": "Marketing & Social",
+  "title": "Townhall Thumbnail",
+  "client": "FYERS Securities",
+  "note": "Event thumbnail",
+  "thumb": "assets/img/thumb/marketing-townhall-thumbnail-1.webp",
+  "full": "assets/img/full/marketing-townhall-thumbnail-1.webp",
+  "zoom": null,
+  "w": 1920,
+  "h": 1080,
+  "orig": [
+   1920,
+   1080
+  ]
+ },
+ {
+  "id": "marketing-upgrade-alert-fyers-web-1-5-beta-unleashed",
+  "type": "image",
+  "cat": "Marketing & Social",
+  "title": "FYERS Web 1.5 Beta \u2014 Upgrade Alert",
+  "client": "FYERS Securities",
+  "note": "Product launch banner",
+  "thumb": "assets/img/thumb/marketing-upgrade-alert-fyers-web-1-5-beta-unleashed.webp",
+  "full": "assets/img/full/marketing-upgrade-alert-fyers-web-1-5-beta-unleashed.webp",
+  "zoom": null,
+  "w": 2600,
+  "h": 743,
+  "orig": [
+   2800,
+   800
+  ]
+ },
+ {
+  "id": "marketing-website-banner",
+  "type": "image",
+  "cat": "Marketing & Social",
+  "title": "Website Banner",
+  "client": "FYERS Securities",
+  "note": "Web banner",
+  "thumb": "assets/img/thumb/marketing-website-banner.webp",
+  "full": "assets/img/full/marketing-website-banner.webp",
+  "zoom": null,
+  "w": 1271,
+  "h": 398,
+  "orig": [
+   1271,
+   398
+  ]
+ },
+ {
+  "id": "digital-qubriux-landing-page",
+  "type": "image",
+  "cat": "Digital & UI",
+  "title": "Qubriux Landing Page",
+  "client": "Skellam AI \u00b7 Qubriux",
+  "note": "Full conversion landing page",
+  "thumb": "assets/img/thumb/digital-qubriux-landing-page.webp",
+  "full": "assets/img/full/digital-qubriux-landing-page.webp",
+  "zoom": "assets/img/zoom/digital-qubriux-landing-page.webp",
+  "w": 1353,
+  "h": 2600,
+  "orig": [
+   3000,
+   5767
+  ]
+ },
+ {
+  "id": "digital-qubriux-page-1",
+  "type": "image",
+  "cat": "Digital & UI",
+  "title": "Qubriux Website \u2014 Page Designs",
+  "client": "Skellam AI \u00b7 Qubriux",
+  "note": "Web page layouts",
+  "thumb": "assets/img/thumb/digital-qubriux-page-1.webp",
+  "full": "assets/img/full/digital-qubriux-page-1.webp",
+  "zoom": "assets/img/zoom/digital-qubriux-page-1.webp",
+  "w": 2600,
+  "h": 2095,
+  "orig": [
+   4096,
+   3301
+  ]
+ },
+ {
+  "id": "digital-qubriux-page",
+  "type": "image",
+  "cat": "Digital & UI",
+  "title": "Qubriux Website \u2014 Five Pages",
+  "client": "Skellam AI \u00b7 Qubriux",
+  "note": "About, Solutions, Industries, Insights and Contact page designs",
+  "thumb": "assets/img/thumb/digital-qubriux-page.webp",
+  "full": "assets/img/full/digital-qubriux-page.webp",
+  "zoom": "assets/img/zoom/digital-qubriux-page.webp",
+  "w": 2600,
+  "h": 2095,
+  "orig": [
+   20427,
+   16461
+  ]
+ },
+ {
+  "id": "digital-qubriux-sidebar",
+  "type": "image",
+  "cat": "Digital & UI",
+  "title": "Qubriux Product UI \u2014 Sidebar",
+  "client": "Skellam AI \u00b7 Qubriux",
+  "note": "In-product navigation design",
+  "thumb": "assets/img/thumb/digital-qubriux-sidebar.webp",
+  "full": "assets/img/full/digital-qubriux-sidebar.webp",
+  "zoom": null,
+  "w": 2187,
+  "h": 2030,
+  "orig": [
+   2187,
+   2030
+  ]
+ },
+ {
+  "id": "digital-restomail-page",
+  "type": "image",
+  "cat": "Digital & UI",
+  "title": "Restomail Page",
+  "client": "Skellam AI \u00b7 Qubriux",
+  "note": "Full product page design",
+  "thumb": "assets/img/thumb/digital-restomail-page.webp",
+  "full": "assets/img/full/digital-restomail-page.webp",
+  "zoom": "assets/img/zoom/digital-restomail-page.webp",
+  "w": 474,
+  "h": 2600,
+  "orig": [
+   1920,
+   10537
+  ]
+ },
+ {
+  "id": "print-banner-ad-ffcc-global-1",
+  "type": "image",
+  "cat": "Events & Print",
+  "title": "FFCC Global \u2014 Banner Ad (alt)",
+  "client": "Skellam AI \u00b7 Qubriux",
+  "note": "Alternate banner version",
+  "thumb": "assets/img/thumb/print-banner-ad-ffcc-global-1.webp",
+  "full": "assets/img/full/print-banner-ad-ffcc-global-1.webp",
+  "zoom": null,
+  "w": 1200,
+  "h": 2400,
+  "orig": [
+   1200,
+   2400
+  ]
+ },
+ {
+  "id": "print-banner-ad-ffcc-global",
+  "type": "image",
+  "cat": "Events & Print",
+  "title": "FFCC Global \u2014 Banner Ad",
+  "client": "Skellam AI \u00b7 Qubriux",
+  "note": "Event banner advertisement",
+  "thumb": "assets/img/thumb/print-banner-ad-ffcc-global.webp",
+  "full": "assets/img/full/print-banner-ad-ffcc-global.webp",
+  "zoom": null,
+  "w": 1200,
+  "h": 2400,
+  "orig": [
+   1200,
+   2400
+  ]
+ },
+ {
+  "id": "print-brouchers",
+  "type": "image",
+  "cat": "Events & Print",
+  "title": "FYERS Product Brochures",
+  "client": "FYERS Securities",
+  "note": "Ten product one-pagers \u2014 App, Web, Desktop, TradingView, InstaOptions, Pledging, Journal, FYERS TV, Discover",
+  "thumb": "assets/img/thumb/print-brouchers.webp",
+  "full": "assets/img/full/print-brouchers.webp",
+  "zoom": "assets/img/zoom/print-brouchers.webp",
+  "w": 2600,
+  "h": 1423,
+  "orig": [
+   7077,
+   3874
+  ]
+ },
+ {
+  "id": "print-ffcc-invite",
+  "type": "image",
+  "cat": "Events & Print",
+  "title": "FFCC 2026 Riyadh \u2014 Invitation",
+  "client": "Skellam AI \u00b7 Qubriux",
+  "note": "Event invitation, Fast Food & Cafe Convention",
+  "thumb": "assets/img/thumb/print-ffcc-invite.webp",
+  "full": "assets/img/full/print-ffcc-invite.webp",
+  "zoom": "assets/img/zoom/print-ffcc-invite.webp",
+  "w": 2600,
+  "h": 945,
+  "orig": [
+   6600,
+   2400
+  ]
+ },
+ {
+  "id": "print-magazine",
+  "type": "image",
+  "cat": "Events & Print",
+  "title": "Magazine Placement",
+  "client": "Skellam AI \u00b7 Qubriux",
+  "note": "Print magazine advertisement",
+  "thumb": "assets/img/thumb/print-magazine.webp",
+  "full": "assets/img/full/print-magazine.webp",
+  "zoom": null,
+  "w": 1673,
+  "h": 1114,
+  "orig": [
+   1673,
+   1114
+  ]
+ },
+ {
+  "id": "print-standee",
+  "type": "image",
+  "cat": "Events & Print",
+  "title": "Qubriux Event Standees",
+  "client": "Skellam AI \u00b7 Qubriux",
+  "note": "Three standee variants for trade shows",
+  "thumb": "assets/img/thumb/print-standee.webp",
+  "full": "assets/img/full/print-standee.webp",
+  "zoom": "assets/img/zoom/print-standee.webp",
+  "w": 2600,
+  "h": 1676,
+  "orig": [
+   8192,
+   5282
+  ]
+ },
+ {
+  "id": "photo-1",
+  "type": "image",
+  "cat": "Photography",
+  "title": "Creative Photography \u2014 Portfolio Cover",
+  "client": "Personal work",
+  "note": "Photography portfolio opener",
+  "thumb": "assets/img/thumb/photo-1.webp",
+  "full": "assets/img/full/photo-1.webp",
+  "zoom": null,
+  "w": 1920,
+  "h": 1080,
+  "orig": [
+   1920,
+   1080
+  ]
+ },
+ {
+  "id": "photo-10",
+  "type": "image",
+  "cat": "Photography",
+  "title": "Product Photography \u2014 Tech",
+  "client": "Personal work",
+  "note": "Gadget and accessory photography",
+  "thumb": "assets/img/thumb/photo-10.webp",
+  "full": "assets/img/full/photo-10.webp",
+  "zoom": null,
+  "w": 1920,
+  "h": 1080,
+  "orig": [
+   1920,
+   1080
+  ]
+ },
+ {
+  "id": "photo-11",
+  "type": "image",
+  "cat": "Photography",
+  "title": "Photography Portfolio \u2014 Closing",
+  "client": "Personal work",
+  "note": "Portfolio end card",
+  "thumb": "assets/img/thumb/photo-11.webp",
+  "full": "assets/img/full/photo-11.webp",
+  "zoom": null,
+  "w": 1920,
+  "h": 1080,
+  "orig": [
+   1920,
+   1080
+  ]
+ },
+ {
+  "id": "photo-2",
+  "type": "image",
+  "cat": "Photography",
+  "title": "Modeling Photography",
+  "client": "Personal work",
+  "note": "Fashion and lifestyle portraiture",
+  "thumb": "assets/img/thumb/photo-2.webp",
+  "full": "assets/img/full/photo-2.webp",
+  "zoom": null,
+  "w": 1920,
+  "h": 1080,
+  "orig": [
+   1920,
+   1080
+  ]
+ },
+ {
+  "id": "photo-3",
+  "type": "image",
+  "cat": "Photography",
+  "title": "Portrait Series",
+  "client": "Personal work",
+  "note": "Studio and location portraiture",
+  "thumb": "assets/img/thumb/photo-3.webp",
+  "full": "assets/img/full/photo-3.webp",
+  "zoom": null,
+  "w": 1920,
+  "h": 1080,
+  "orig": [
+   1920,
+   1080
+  ]
+ },
+ {
+  "id": "photo-4",
+  "type": "image",
+  "cat": "Photography",
+  "title": "Artistic Photography",
+  "client": "Personal work",
+  "note": "Conceptual and still-life composition",
+  "thumb": "assets/img/thumb/photo-4.webp",
+  "full": "assets/img/full/photo-4.webp",
+  "zoom": null,
+  "w": 1920,
+  "h": 1080,
+  "orig": [
+   1920,
+   1080
+  ]
+ },
+ {
+  "id": "photo-5",
+  "type": "image",
+  "cat": "Photography",
+  "title": "Product Photography \u2014 Spirits",
+  "client": "Personal work",
+  "note": "Beverage product photography",
+  "thumb": "assets/img/thumb/photo-5.webp",
+  "full": "assets/img/full/photo-5.webp",
+  "zoom": null,
+  "w": 1920,
+  "h": 1080,
+  "orig": [
+   1920,
+   1080
+  ]
+ },
+ {
+  "id": "photo-6",
+  "type": "image",
+  "cat": "Photography",
+  "title": "Product Photography",
+  "client": "Personal work",
+  "note": "Studio product photography",
+  "thumb": "assets/img/thumb/photo-6.webp",
+  "full": "assets/img/full/photo-6.webp",
+  "zoom": null,
+  "w": 1920,
+  "h": 1080,
+  "orig": [
+   1920,
+   1080
+  ]
+ },
+ {
+  "id": "photo-7",
+  "type": "image",
+  "cat": "Photography",
+  "title": "E-commerce Photography",
+  "client": "Personal work",
+  "note": "Catalogue and listing photography",
+  "thumb": "assets/img/thumb/photo-7.webp",
+  "full": "assets/img/full/photo-7.webp",
+  "zoom": null,
+  "w": 1920,
+  "h": 1080,
+  "orig": [
+   1920,
+   1080
+  ]
+ },
+ {
+  "id": "photo-8",
+  "type": "image",
+  "cat": "Photography",
+  "title": "Product Photography \u2014 Fragrance",
+  "client": "Personal work",
+  "note": "Fragrance and cosmetics",
+  "thumb": "assets/img/thumb/photo-8.webp",
+  "full": "assets/img/full/photo-8.webp",
+  "zoom": null,
+  "w": 1920,
+  "h": 1080,
+  "orig": [
+   1920,
+   1080
+  ]
+ },
+ {
+  "id": "photo-9",
+  "type": "image",
+  "cat": "Photography",
+  "title": "E-commerce Photography \u2014 Lifestyle",
+  "client": "Personal work",
+  "note": "Model with product, catalogue use",
+  "thumb": "assets/img/thumb/photo-9.webp",
+  "full": "assets/img/full/photo-9.webp",
+  "zoom": null,
+  "w": 1920,
+  "h": 1080,
+  "orig": [
+   1920,
+   1080
+  ]
+ },
+ {
+  "id": "3-ways-india-can-benefit-from-tariff-war-720p",
+  "type": "reel",
+  "cat": "Reels & Short-form",
+  "title": "3 Ways India Benefits from the Tariff War",
+  "client": "ClearTax",
+  "note": "Vertical \u00b7 1:03 \u00b7 with sound",
+  "thumb": "assets/video/3-ways-india-can-benefit-from-tariff-war-720p.jpg",
+  "loop": "assets/video/3-ways-india-can-benefit-from-tariff-war-720p-loop.mp4",
+  "w": 720,
+  "h": 1280,
+  "dur": 63.7,
+  "yt": null,
+  "full": "assets/video/full/3-ways-india-can-benefit-from-tariff-war-720p.mp4"
+ },
+ {
+  "id": "5-things-you-should-do-to-increase-your-restau",
+  "type": "reel",
+  "cat": "Reels & Short-form",
+  "title": "5 Ways to Increase Restaurant AOV",
+  "client": "Skellam AI \u00b7 Qubriux",
+  "note": "Vertical \u00b7 0:56 \u00b7 with sound",
+  "thumb": "assets/video/5-things-you-should-do-to-increase-your-restau.jpg",
+  "loop": "assets/video/5-things-you-should-do-to-increase-your-restau-loop.mp4",
+  "w": 720,
+  "h": 1280,
+  "dur": 56.2,
+  "yt": null,
+  "full": "assets/video/full/5-things-you-should-do-to-increase-your-restau.mp4"
+ },
+ {
+  "id": "concept-2-now-what-4-5",
+  "type": "reel",
+  "cat": "Reels & Short-form",
+  "title": "Concept \u2014 Now What",
+  "client": "Skellam AI \u00b7 Qubriux",
+  "note": "Vertical \u00b7 0:21 \u00b7 with sound",
+  "thumb": "assets/video/concept-2-now-what-4-5.jpg",
+  "loop": "assets/video/concept-2-now-what-4-5-loop.mp4",
+  "w": 1080,
+  "h": 1350,
+  "dur": 21.5,
+  "yt": null,
+  "full": "assets/video/full/concept-2-now-what-4-5.mp4"
+ },
+ {
+  "id": "concept-1-reach-vs-revenue-4-5",
+  "type": "reel",
+  "cat": "Reels & Short-form",
+  "title": "Concept \u2014 Reach vs Revenue",
+  "client": "Skellam AI \u00b7 Qubriux",
+  "note": "Vertical \u00b7 0:18 \u00b7 with sound",
+  "thumb": "assets/video/concept-1-reach-vs-revenue-4-5.jpg",
+  "loop": "assets/video/concept-1-reach-vs-revenue-4-5-loop.mp4",
+  "w": 1080,
+  "h": 1350,
+  "dur": 18.1,
+  "yt": null,
+  "full": "assets/video/full/concept-1-reach-vs-revenue-4-5.mp4"
+ },
+ {
+  "id": "corperate-video-for-traders-mela-1",
+  "type": "reel",
+  "cat": "Reels & Short-form",
+  "title": "Traders Mela \u2014 Corporate Film",
+  "client": "FYERS Securities",
+  "note": "Wide \u00b7 0:37 \u00b7 with sound",
+  "thumb": "assets/video/corperate-video-for-traders-mela-1.jpg",
+  "loop": "assets/video/corperate-video-for-traders-mela-1-loop.mp4",
+  "w": 3840,
+  "h": 2160,
+  "dur": 37.9,
+  "yt": null,
+  "full": "assets/video/full/corperate-video-for-traders-mela-1.mp4"
+ },
+ {
+  "id": "fyers-app-2-0-watchlist-1080",
+  "type": "reel",
+  "cat": "Reels & Short-form",
+  "title": "FYERS App 2.0 \u2014 Watchlist",
+  "client": "FYERS Securities",
+  "note": "Square \u00b7 0:59 \u00b7 with sound",
+  "thumb": "assets/video/fyers-app-2-0-watchlist-1080.jpg",
+  "loop": "assets/video/fyers-app-2-0-watchlist-1080-loop.mp4",
+  "w": 1080,
+  "h": 1080,
+  "dur": 59.0,
+  "yt": null,
+  "full": "assets/video/full/fyers-app-2-0-watchlist-1080.mp4"
+ },
+ {
+  "id": "g-sec-video-2-exploring-debt-market-instrument",
+  "type": "reel",
+  "cat": "Reels & Short-form",
+  "title": "G-Sec: Exploring Debt Market Instruments",
+  "client": "FYERS Securities",
+  "note": "Wide \u00b7 2:21 \u00b7 with sound",
+  "thumb": "assets/video/g-sec-video-2-exploring-debt-market-instrument.jpg",
+  "loop": "assets/video/g-sec-video-2-exploring-debt-market-instrument-loop.mp4",
+  "w": 3840,
+  "h": 2160,
+  "dur": 141.9,
+  "yt": null,
+  "full": "assets/video/full/g-sec-video-2-exploring-debt-market-instrument.mp4"
+ },
+ {
+  "id": "invest-in-gold-the-smart-way-720p",
+  "type": "reel",
+  "cat": "Reels & Short-form",
+  "title": "Invest in Gold, the Smart Way",
+  "client": "ClearTax",
+  "note": "Vertical \u00b7 0:54 \u00b7 with sound",
+  "thumb": "assets/video/invest-in-gold-the-smart-way-720p.jpg",
+  "loop": "assets/video/invest-in-gold-the-smart-way-720p-loop.mp4",
+  "w": 720,
+  "h": 1280,
+  "dur": 54.2,
+  "yt": null,
+  "full": "assets/video/full/invest-in-gold-the-smart-way-720p.mp4"
+ },
+ {
+  "id": "qubriux-is-back-in-riyadh-at-the-fast-food-caf",
+  "type": "reel",
+  "cat": "Reels & Short-form",
+  "title": "Qubriux at FFCC Riyadh 2024",
+  "client": "Skellam AI \u00b7 Qubriux",
+  "note": "Square \u00b7 0:12 \u00b7 with sound",
+  "thumb": "assets/video/qubriux-is-back-in-riyadh-at-the-fast-food-caf.jpg",
+  "loop": "assets/video/qubriux-is-back-in-riyadh-at-the-fast-food-caf-loop.mp4",
+  "w": 720,
+  "h": 720,
+  "dur": 12.0,
+  "yt": null,
+  "full": "assets/video/full/qubriux-is-back-in-riyadh-at-the-fast-food-caf.mp4"
+ },
+ {
+  "id": "qubriux-is-in-dubai-for-ffcc-2024-720p",
+  "type": "reel",
+  "cat": "Reels & Short-form",
+  "title": "Qubriux at FFCC Dubai 2024",
+  "client": "Skellam AI \u00b7 Qubriux",
+  "note": "Vertical \u00b7 0:11 \u00b7 with sound",
+  "thumb": "assets/video/qubriux-is-in-dubai-for-ffcc-2024-720p.jpg",
+  "loop": "assets/video/qubriux-is-in-dubai-for-ffcc-2024-720p-loop.mp4",
+  "w": 720,
+  "h": 1280,
+  "dur": 11.3,
+  "yt": null,
+  "full": "assets/video/full/qubriux-is-in-dubai-for-ffcc-2024-720p.mp4"
+ },
+ {
+  "id": "salary-18-lakhs-here-is-how-to-save-taxes-720p",
+  "type": "reel",
+  "cat": "Reels & Short-form",
+  "title": "Salary \u20b918L \u2014 How to Save Taxes",
+  "client": "ClearTax",
+  "note": "Vertical \u00b7 1:10 \u00b7 with sound",
+  "thumb": "assets/video/salary-18-lakhs-here-is-how-to-save-taxes-720p.jpg",
+  "loop": "assets/video/salary-18-lakhs-here-is-how-to-save-taxes-720p-loop.mp4",
+  "w": 720,
+  "h": 1280,
+  "dur": 70.2,
+  "yt": null,
+  "full": "assets/video/full/salary-18-lakhs-here-is-how-to-save-taxes-720p.mp4"
+ },
+ {
+  "id": "qubriux-beyond-basic-loyalty",
+  "type": "film",
+  "cat": "Video & Motion",
+  "title": "Qubriux \u2014 Beyond Basic Loyalty",
+  "client": "Skellam AI \u00b7 Qubriux",
+  "note": "Brand film \u00b7 6:40",
+  "thumb": "assets/video/qubriux-beyond-basic-loyalty.jpg",
+  "loop": "assets/video/qubriux-beyond-basic-loyalty-loop.mp4",
+  "w": 3840,
+  "h": 2160,
+  "dur": 400,
+  "yt": "s3AaiB-ZK4g"
+ },
+ {
+  "id": "qubriux-explainer",
+  "type": "film",
+  "cat": "Video & Motion",
+  "title": "Qubriux Explainer",
+  "client": "Skellam AI \u00b7 Qubriux",
+  "note": "Product explainer \u00b7 1:35",
+  "thumb": "assets/video/qubriux-explainer.jpg",
+  "loop": "assets/video/qubriux-explainer-loop.mp4",
+  "w": 3840,
+  "h": 2160,
+  "dur": 95,
+  "yt": "RGrUq006cNM"
+ },
+ {
+  "id": "qubriux-intro",
+  "type": "film",
+  "cat": "Video & Motion",
+  "title": "Qubriux Intro",
+  "client": "Skellam AI \u00b7 Qubriux",
+  "note": "Brand intro \u00b7 2:55",
+  "thumb": "assets/video/qubriux-intro.jpg",
+  "loop": "assets/video/qubriux-intro-loop.mp4",
+  "w": 1920,
+  "h": 1080,
+  "dur": 175,
+  "yt": "2S8e0g2PUsU"
+ },
+ {
+  "id": "smart-exit-tutorial",
+  "type": "film",
+  "cat": "Video & Motion",
+  "title": "Smart Exit \u2014 Product Tutorial",
+  "client": "FYERS Securities",
+  "note": "Tutorial \u00b7 1:42",
+  "thumb": "assets/video/smart-exit-tutorial.jpg",
+  "loop": "assets/video/smart-exit-tutorial-loop.mp4",
+  "w": 1920,
+  "h": 1080,
+  "dur": 102,
+  "yt": "c6Egj6z129Y"
+ },
+ {
+  "id": "tradingview",
+  "type": "film",
+  "cat": "Video & Motion",
+  "title": "FYERS \u00d7 TradingView",
+  "client": "FYERS Securities",
+  "note": "Campaign film \u00b7 0:22",
+  "thumb": "assets/video/tradingview.jpg",
+  "loop": "assets/video/tradingview-loop.mp4",
+  "w": 1920,
+  "h": 1080,
+  "dur": 22,
+  "yt": "NMZMDS2Mvdc"
+ },
+ {
+  "id": "itr-filing-traders",
+  "type": "film",
+  "cat": "Video & Motion",
+  "title": "ITR Filing for Stock Market Traders",
+  "client": "ClearTax",
+  "note": "Educational \u00b7 4:22",
+  "thumb": "assets/video/itr-filing-traders.jpg",
+  "loop": "assets/video/itr-filing-traders-loop.mp4",
+  "w": 1280,
+  "h": 720,
+  "dur": 262,
+  "yt": "DlnMsCcxsrY"
+ },
+ {
+  "id": "income-tax-refund",
+  "type": "film",
+  "cat": "Video & Motion",
+  "title": "Income Tax Refund Grievance",
+  "client": "ClearTax",
+  "note": "Educational \u00b7 2:29",
+  "thumb": "assets/video/income-tax-refund.jpg",
+  "loop": "assets/video/income-tax-refund-loop.mp4",
+  "w": 1280,
+  "h": 720,
+  "dur": 149,
+  "yt": "3L64MWu0a6w"
+ },
+ {
+  "id": "cleartax-planning-tool",
+  "type": "film",
+  "cat": "Video & Motion",
+  "title": "ClearTax Tax Planning Tool",
+  "client": "ClearTax",
+  "note": "Educational \u00b7 2:00",
+  "thumb": "assets/video/cleartax-planning-tool.jpg",
+  "loop": "assets/video/cleartax-planning-tool-loop.mp4",
+  "w": 1280,
+  "h": 720,
+  "dur": 120,
+  "yt": "D2-RdZdN0ro"
+ },
+ {
+  "id": "fyers-corporate-deck",
+  "type": "deck",
+  "cat": "Presentation & Sales",
+  "title": "FYERS \u2014 Corporate Deck",
+  "client": "FYERS Securities",
+  "note": "16 pages",
+  "thumb": "assets/decks/fyers-corporate-deck/01.webp",
+  "pages": 16,
+  "dir": "assets/decks/fyers-corporate-deck"
+ },
+ {
+  "id": "fyers-corporate-v2",
+  "type": "deck",
+  "cat": "Presentation & Sales",
+  "title": "FYERS \u2014 Corporate Deck (v2)",
+  "client": "FYERS Securities",
+  "note": "18 pages",
+  "thumb": "assets/decks/fyers-corporate-v2/01.webp",
+  "pages": 18,
+  "dir": "assets/decks/fyers-corporate-v2"
+ },
+ {
+  "id": "fyers-partnership",
+  "type": "deck",
+  "cat": "Presentation & Sales",
+  "title": "FYERS \u2014 Partnership Deck",
+  "client": "FYERS Securities",
+  "note": "9 pages",
+  "thumb": "assets/decks/fyers-partnership/01.webp",
+  "pages": 9,
+  "dir": "assets/decks/fyers-partnership"
+ },
+ {
+  "id": "fyers-api-deck",
+  "type": "deck",
+  "cat": "Presentation & Sales",
+  "title": "FYERS \u2014 API Deck",
+  "client": "FYERS Securities",
+  "note": "12 pages",
+  "thumb": "assets/decks/fyers-api-deck/01.webp",
+  "pages": 12,
+  "dir": "assets/decks/fyers-api-deck"
+ },
+ {
+  "id": "qubriux-corporate-deck",
+  "type": "deck",
+  "cat": "Presentation & Sales",
+  "title": "Qubriux \u2014 Corporate Deck",
+  "client": "Skellam AI \u00b7 Qubriux",
+  "note": "13 pages",
+  "thumb": "assets/decks/qubriux-corporate-deck/01.webp",
+  "pages": 13,
+  "dir": "assets/decks/qubriux-corporate-deck"
+ }
+]
