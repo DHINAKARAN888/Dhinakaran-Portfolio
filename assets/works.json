@@ -14,7 +14,8 @@
   "orig": [
    7680,
    16052
-  ]
+  ],
+  "tile": "assets/img/tile/brand-brand-identity.webp"
  },
  {
   "id": "marketing-1200-1200-trade-like-a-pro-with-web",
@@ -116,7 +117,8 @@
   "orig": [
    1080,
    1920
-  ]
+  ],
+  "tile": "assets/img/tile/marketing-journal-thmbnail.webp"
  },
  {
   "id": "marketing-sme-ipo",
@@ -235,7 +237,8 @@
   "orig": [
    3000,
    5767
-  ]
+  ],
+  "tile": "assets/img/tile/digital-qubriux-landing-page.webp"
  },
  {
   "id": "digital-qubriux-page-1",
@@ -303,7 +306,8 @@
   "orig": [
    1920,
    10537
-  ]
+  ],
+  "tile": "assets/img/tile/digital-restomail-page.webp"
  },
  {
   "id": "print-banner-ad-ffcc-global-1",
@@ -320,7 +324,8 @@
   "orig": [
    1200,
    2400
-  ]
+  ],
+  "tile": "assets/img/tile/print-banner-ad-ffcc-global-1.webp"
  },
  {
   "id": "print-banner-ad-ffcc-global",
@@ -337,7 +342,8 @@
   "orig": [
    1200,
    2400
-  ]
+  ],
+  "tile": "assets/img/tile/print-banner-ad-ffcc-global.webp"
  },
  {
   "id": "print-brouchers",
@@ -405,193 +411,6 @@
   "orig": [
    8192,
    5282
-  ]
- },
- {
-  "id": "photo-1",
-  "type": "image",
-  "cat": "Photography",
-  "title": "Creative Photography \u2014 Portfolio Cover",
-  "client": "Personal work",
-  "note": "Photography portfolio opener",
-  "thumb": "assets/img/thumb/photo-1.webp",
-  "full": "assets/img/full/photo-1.webp",
-  "zoom": null,
-  "w": 1920,
-  "h": 1080,
-  "orig": [
-   1920,
-   1080
-  ]
- },
- {
-  "id": "photo-10",
-  "type": "image",
-  "cat": "Photography",
-  "title": "Product Photography \u2014 Tech",
-  "client": "Personal work",
-  "note": "Gadget and accessory photography",
-  "thumb": "assets/img/thumb/photo-10.webp",
-  "full": "assets/img/full/photo-10.webp",
-  "zoom": null,
-  "w": 1920,
-  "h": 1080,
-  "orig": [
-   1920,
-   1080
-  ]
- },
- {
-  "id": "photo-11",
-  "type": "image",
-  "cat": "Photography",
-  "title": "Photography Portfolio \u2014 Closing",
-  "client": "Personal work",
-  "note": "Portfolio end card",
-  "thumb": "assets/img/thumb/photo-11.webp",
-  "full": "assets/img/full/photo-11.webp",
-  "zoom": null,
-  "w": 1920,
-  "h": 1080,
-  "orig": [
-   1920,
-   1080
-  ]
- },
- {
-  "id": "photo-2",
-  "type": "image",
-  "cat": "Photography",
-  "title": "Modeling Photography",
-  "client": "Personal work",
-  "note": "Fashion and lifestyle portraiture",
-  "thumb": "assets/img/thumb/photo-2.webp",
-  "full": "assets/img/full/photo-2.webp",
-  "zoom": null,
-  "w": 1920,
-  "h": 1080,
-  "orig": [
-   1920,
-   1080
-  ]
- },
- {
-  "id": "photo-3",
-  "type": "image",
-  "cat": "Photography",
-  "title": "Portrait Series",
-  "client": "Personal work",
-  "note": "Studio and location portraiture",
-  "thumb": "assets/img/thumb/photo-3.webp",
-  "full": "assets/img/full/photo-3.webp",
-  "zoom": null,
-  "w": 1920,
-  "h": 1080,
-  "orig": [
-   1920,
-   1080
-  ]
- },
- {
-  "id": "photo-4",
-  "type": "image",
-  "cat": "Photography",
-  "title": "Artistic Photography",
-  "client": "Personal work",
-  "note": "Conceptual and still-life composition",
-  "thumb": "assets/img/thumb/photo-4.webp",
-  "full": "assets/img/full/photo-4.webp",
-  "zoom": null,
-  "w": 1920,
-  "h": 1080,
-  "orig": [
-   1920,
-   1080
-  ]
- },
- {
-  "id": "photo-5",
-  "type": "image",
-  "cat": "Photography",
-  "title": "Product Photography \u2014 Spirits",
-  "client": "Personal work",
-  "note": "Beverage product photography",
-  "thumb": "assets/img/thumb/photo-5.webp",
-  "full": "assets/img/full/photo-5.webp",
-  "zoom": null,
-  "w": 1920,
-  "h": 1080,
-  "orig": [
-   1920,
-   1080
-  ]
- },
- {
-  "id": "photo-6",
-  "type": "image",
-  "cat": "Photography",
-  "title": "Product Photography",
-  "client": "Personal work",
-  "note": "Studio product photography",
-  "thumb": "assets/img/thumb/photo-6.webp",
-  "full": "assets/img/full/photo-6.webp",
-  "zoom": null,
-  "w": 1920,
-  "h": 1080,
-  "orig": [
-   1920,
-   1080
-  ]
- },
- {
-  "id": "photo-7",
-  "type": "image",
-  "cat": "Photography",
-  "title": "E-commerce Photography",
-  "client": "Personal work",
-  "note": "Catalogue and listing photography",
-  "thumb": "assets/img/thumb/photo-7.webp",
-  "full": "assets/img/full/photo-7.webp",
-  "zoom": null,
-  "w": 1920,
-  "h": 1080,
-  "orig": [
-   1920,
-   1080
-  ]
- },
- {
-  "id": "photo-8",
-  "type": "image",
-  "cat": "Photography",
-  "title": "Product Photography \u2014 Fragrance",
-  "client": "Personal work",
-  "note": "Fragrance and cosmetics",
-  "thumb": "assets/img/thumb/photo-8.webp",
-  "full": "assets/img/full/photo-8.webp",
-  "zoom": null,
-  "w": 1920,
-  "h": 1080,
-  "orig": [
-   1920,
-   1080
-  ]
- },
- {
-  "id": "photo-9",
-  "type": "image",
-  "cat": "Photography",
-  "title": "E-commerce Photography \u2014 Lifestyle",
-  "client": "Personal work",
-  "note": "Model with product, catalogue use",
-  "thumb": "assets/img/thumb/photo-9.webp",
-  "full": "assets/img/full/photo-9.webp",
-  "zoom": null,
-  "w": 1920,
-  "h": 1080,
-  "orig": [
-   1920,
-   1080
   ]
  },
  {
@@ -925,5 +744,17 @@
   "thumb": "assets/decks/qubriux-corporate-deck/01.webp",
   "pages": 13,
   "dir": "assets/decks/qubriux-corporate-deck"
+ },
+ {
+  "id": "photography-portfolio",
+  "type": "deck",
+  "cat": "Photography",
+  "title": "Creative Photography \u2014 Portfolio",
+  "client": "Personal work",
+  "note": "11 slides \u2014 modeling, artistic, product and e-commerce",
+  "thumb": "assets/albums/photography/01.webp",
+  "pages": 11,
+  "unit": "slides",
+  "dir": "assets/albums/photography"
  }
 ]
